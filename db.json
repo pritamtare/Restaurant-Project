@@ -1,0 +1,20 @@
+{
+  "customer": [
+    {
+      "name": "pritam tare",
+      "email": "pritamtare555@gmail.com",
+      "phone": "9307044519",
+      "dish": "vadapav",
+      "amount": "30",
+      "id": 1
+    },
+    {
+      "name": "pritam tare",
+      "email": "pritamtare555@gmail.com",
+      "phone": "9307044519",
+      "dish": "vadapav",
+      "amount": "965",
+      "id": 2
+    }
+  ]
+}
